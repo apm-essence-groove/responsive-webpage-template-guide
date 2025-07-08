@@ -1,6 +1,7 @@
-# responsive-webpage-template-guide
+# Responsive Webpage Template Guide
+By Eeshvar Das
 
-## Responsive Webpage Template
+## Responsive Webpage Template Repository
 I created a [Responsive Website Teamplate](https://github.com/apm-essence-groove/responsive-webpage-template) for you to get started quickly with making a website that is full stasck.
 
 ### Website Anatomy: A Beginner's Guide to Front End and Back End
