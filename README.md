@@ -70,4 +70,4 @@ This communication is often managed through an **API (Application Programming In
 
 This setup forms the foundation of a "full-stack" application, where the front end is the visual part you interact with, and the back end is the powerful engine working behind the scenes. Our simple homepage is a great example of this fundamental architecture.
 
-_There is plenty of information on the internet that goes into more detail. You are welcome to make a specific issue on thie repository and I will respond directly to the issue._
+_There is plenty of information on the internet that goes into more detail. You are welcome to make a specific issue on thie repository about any of these details if you need more information, and I will respond directly to the issue._
