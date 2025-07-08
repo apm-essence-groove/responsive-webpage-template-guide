@@ -1,5 +1,8 @@
 # responsive-webpage-template-guide
 
+## Responsive Webpage Template
+I created a [Responsive Website Teamplate](https://github.com/apm-essence-groove/responsive-webpage-template) for you to get started quickly with making a website that is full stasck.
+
 ### Website Anatomy: A Beginner's Guide to Front End and Back End
 
 Understanding how a website works involves two main parts: the Front End and the Back End. Think of a website like a restaurant.
